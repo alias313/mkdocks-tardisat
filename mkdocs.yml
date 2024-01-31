@@ -18,8 +18,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: blue
-      accent: teal 
+      primary: teal
+      accent: teal
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
