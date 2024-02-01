@@ -1,5 +1,5 @@
 site_name: TardiSat Documentation
-site_url: https://github.com/alias313/TardiSat
+site_url: https://alias313.github.io/mkdocs-tardisat
 theme:
   name: material
   features:
