@@ -11,9 +11,11 @@ Meshtastic is being evaluated as an alternative, but compared to TTN there are n
 Currently, we are prototyping with two LYLYGO T3_V1.6.1 modules with the following pinout:
 ![LILYGO board pinout](lora32_v1.6.1_pinmap.jpg)
 
+You can learn more about this board and others from the same series on the [official GitHub repository](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/tree/master).
+
 ## Software
 We recently changed to PlatformIO for prototyping in a more advanced development environment.
-Currently, we have tested Simplex communication between both boards with the following code: 
+Currently, we have tested simplex communication between both boards with the following code: 
 ``` cpp title="rx_test.cpp" linenums="1"
 #include <Arduino.h>
 #include <SPI.h>
