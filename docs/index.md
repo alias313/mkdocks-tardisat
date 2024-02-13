@@ -6,6 +6,9 @@ TardiSat is a project for a picosatellite that acts as a gateway to The Things N
 ### Alternatives: Meshtastic
 Meshtastic is being evaluated as an alternative, but compared to TTN there are no range tests that have gone past 500 km, so we can't in good faith rely on solid technology in unproven areas.
 
+## LoRa Modulation
+You can see a detailed description of how the LoRa physical layer works in the [following article](https://wirelesspi.com/understanding-lora-phy-long-range-physical-layer/)
+
 ## Hardware
 ### LILYGO board
 Currently, we are prototyping with two LYLYGO T3_V1.6.1 modules with the following pinout:
